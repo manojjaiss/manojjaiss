@@ -1,11 +1,10 @@
 [!MasterHead](https://manashjaiss.blogspot.com/2023/11/coding.html)
 <h1 align="center">Hi 👋, I'm Manoj kumar</h1>
 <h3 align="center">"Decoding the Future: A Software Developer's Odyssey through Lines of Logic and Innovation"</h3>
-<img align="right" alt="coding" width="400" src="https://economictimes.indiatimes.com/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster/primearticleshow/84146083.cms?from=mdr">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojjaiss&label=Profile%20views&color=0e75b6&style=flat" alt="manojjaiss" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **DART**
 
