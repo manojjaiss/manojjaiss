@@ -1,4 +1,4 @@
-[!MasterHead](https://github.com/manojjaiss/manojjaiss/blob/main/mj.gif)
+[https://github.com/manojjaiss/manojjaiss/blob/main/mj.gif]
 <h1 align="center">Hi 👋, I'm Manoj kumar</h1>
 <h3 align="center">"Decoding the Future: A Software Developer's Odyssey through Lines of Logic and Innovation"</h3>
 
