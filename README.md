@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojjaiss&label=Profile%20views&color=0e75b6&style=flat" alt="manojjaiss" /> </p>
 
 
-- 🌱 I’m currently learning **DART**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **WEB DEV AND AI&ML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
